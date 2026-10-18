@@ -1,0 +1,22 @@
+{
+  "name": "@kemple/ble-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "KEMPLE BLE ↔ Gateway köprüsü — demo modunda simülasyon, gerçek modda noble kullanır",
+  "scripts": {
+    "build": "echo 'ble-bridge: plain JS, no build needed'",
+    "start": "node src/index.mjs",
+    "dev": "node --watch src/index.mjs",
+    "demo": "cross-env DEMO_MODE=true node src/index.mjs"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  },
+  "optionalDependencies": {
+    "@abandonware/noble": "^1.9.2-15"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

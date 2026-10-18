@@ -1,0 +1,252 @@
+// Prisma şeması — KEMPLE veritabanı modelleri
+// `npm run db:push` ile PostgreSQL'e uygulanır
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Packet {
+  id                BigInt    @id @default(autoincrement())
+  packet_uuid       String    @unique @db.Uuid
+  device_id         String
+  payload           String
+  schema_version    String    @default("1.0")
+  origin_lat        Float?
+  origin_lng        Float?
+  last_seen_lat     Float?
+  last_seen_lng     Float?
+  device_timestamp  DateTime
+  gateway_received_at DateTime @default(now())
+  gateway_node_id   String
+  iteration_count   Int       @default(0) @db.SmallInt
+  anonymized_at     DateTime?
+  is_anonymized     Boolean   @default(false)
+
+  cluster_packets   ClusterPacket[]
+
+  @@index([device_id])
+  @@index([gateway_received_at(sort: Desc)])
+  @@map("packets")
+}
+
+model Cluster {
+  id            BigInt    @id @default(autoincrement())
+  cluster_id    String    @unique
+  centroid_lat  Float?
+  centroid_lng  Float?
+  radius_meters Decimal   @default(50) @db.Decimal(8, 2)
+  source_count  Int       @default(1)
+  packet_count  Int       @default(1)
+  first_seen    DateTime
+  last_updated  DateTime  @default(now())
+  is_merged     Boolean   @default(false)
+  merged_into   String?
+
+  cluster_packets     ClusterPacket[]
+  confidence_scores   ConfidenceScore[]
+  triage_results      TriageResult[]
+  review_decisions    ReviewDecision[]
+  operator_decisions  OperatorDecision[]
+  resource_assignments ResourceAssignment[]
+
+  @@index([last_updated(sort: Desc)])
+  @@map("clusters")
+}
+
+model ClusterPacket {
+  cluster_id  String
+  packet_uuid String  @db.Uuid
+  added_at    DateTime @default(now())
+
+  cluster Cluster @relation(fields: [cluster_id], references: [cluster_id])
+  packet  Packet  @relation(fields: [packet_uuid], references: [packet_uuid])
+
+  @@id([cluster_id, packet_uuid])
+  @@map("cluster_packets")
+}
+
+model ConfidenceScore {
+  id               BigInt   @id @default(autoincrement())
+  cluster_id       String
+  iteration_count  Int      @default(0) @db.SmallInt
+  confidence_score Decimal  @db.Decimal(5, 2)
+  score_independent_sources Decimal? @db.Decimal(5, 2)
+  score_coord_consistency   Decimal? @db.Decimal(5, 2)
+  score_time_gap            Decimal? @db.Decimal(5, 2)
+  score_operator_history    Decimal? @db.Decimal(5, 2)
+  score_sybil_penalty       Decimal? @db.Decimal(5, 2)
+  score_blacklist_penalty   Decimal? @db.Decimal(5, 2)
+  anomaly_flags    String[] @default([])
+  is_final         Boolean  @default(false)
+  computed_at      DateTime @default(now())
+
+  cluster Cluster @relation(fields: [cluster_id], references: [cluster_id])
+
+  @@unique([cluster_id, iteration_count])
+  @@index([cluster_id])
+  @@map("confidence_scores")
+}
+
+model TriageResult {
+  id                  BigInt   @id @default(autoincrement())
+  cluster_id          String
+  iteration_count     Int      @default(0) @db.SmallInt
+  triage_score        Decimal  @db.Decimal(4, 2)
+  event_type          String
+  extracted_persons   Int?
+  medical_urgency     String
+  access_type         String
+  suggested_resources String[] @default([])
+  criteria_hayati_tehlike   Decimal? @db.Decimal(4, 2)
+  criteria_kisi_sayisi      Decimal? @db.Decimal(4, 2)
+  criteria_tibbi_aciliyet   Decimal? @db.Decimal(4, 2)
+  criteria_confidence_input Decimal? @db.Decimal(4, 2)
+  criteria_zaman_faktoru    Decimal? @db.Decimal(4, 2)
+  reasoning           String
+  model_version       String
+  is_final            Boolean  @default(false)
+  computed_at         DateTime @default(now())
+
+  cluster Cluster @relation(fields: [cluster_id], references: [cluster_id])
+
+  @@unique([cluster_id, iteration_count])
+  @@index([cluster_id])
+  @@index([triage_score(sort: Desc)])
+  @@map("triage_results")
+}
+
+model ReviewDecision {
+  id              BigInt   @id @default(autoincrement())
+  cluster_id      String
+  iteration_count Int      @default(0) @db.SmallInt
+  review_status   String
+  target_agent    String?
+  fields_to_revise String[] @default([])
+  revision_reason String?
+  final_triage_score     Decimal? @db.Decimal(4, 2)
+  final_confidence_score Decimal? @db.Decimal(5, 2)
+  review_notes           String?
+  escalation_reason      String?
+  total_iterations       Int      @default(0) @db.SmallInt
+  review_model_version   String?
+  decided_at             DateTime @default(now())
+
+  cluster Cluster @relation(fields: [cluster_id], references: [cluster_id])
+
+  @@index([cluster_id])
+  @@index([review_status])
+  @@map("review_decisions")
+}
+
+model OperatorDecision {
+  id                        BigInt   @id @default(autoincrement())
+  cluster_id                String
+  operator_id               String
+  decision                  String
+  override_triage_score     Decimal? @db.Decimal(4, 2)
+  override_confidence_score Decimal? @db.Decimal(5, 2)
+  reason                    String?
+  decided_at                DateTime @default(now())
+  snapshot_triage_score     Decimal  @db.Decimal(4, 2)
+  snapshot_confidence_score Decimal  @db.Decimal(5, 2)
+  snapshot_review_status    String
+
+  cluster Cluster @relation(fields: [cluster_id], references: [cluster_id])
+
+  @@index([cluster_id])
+  @@index([operator_id])
+  @@index([decided_at(sort: Desc)])
+  @@map("operator_decisions")
+}
+
+model DeviceReputation {
+  id         BigInt   @id @default(autoincrement())
+  device_id  String   @unique
+  score      Decimal  @default(0.5) @db.Decimal(4, 3)
+  updated_at DateTime @default(now())
+
+  logs DeviceReputationLog[]
+
+  @@map("device_reputation")
+}
+
+model DeviceReputationLog {
+  id           BigInt   @id @default(autoincrement())
+  device_id    String
+  delta        Decimal  @db.Decimal(4, 3)
+  reason       String
+  triggered_by String
+  cluster_id   String?
+  logged_at    DateTime @default(now())
+
+  reputation DeviceReputation @relation(fields: [device_id], references: [device_id])
+
+  @@index([device_id])
+  @@map("device_reputation_log")
+}
+
+model Blacklist {
+  id         BigInt   @id @default(autoincrement())
+  device_id  String   @unique
+  reason     String
+  issued_by  String
+  issued_at  DateTime @default(now())
+  expires_at DateTime
+  is_active  Boolean  @default(true)
+
+  @@index([device_id])
+  @@map("blacklist")
+}
+
+model DeadZone {
+  id                   BigInt    @id @default(autoincrement())
+  grid_cell_id         String
+  centroid_lat         Float
+  centroid_lng         Float
+  silent_duration_mins Int
+  severity             String
+  detected_at          DateTime  @default(now())
+  resolved_at          DateTime?
+  is_active            Boolean   @default(true)
+  operator_action      String?
+
+  @@index([detected_at(sort: Desc)])
+  @@map("dead_zones")
+}
+
+model ResourceAssignment {
+  id            BigInt    @id @default(autoincrement())
+  cluster_id    String
+  resource_type String
+  resource_id   String
+  assigned_by   String
+  assigned_at   DateTime  @default(now())
+  eta_minutes   Int?
+  status        String    @default("assigned")
+  completed_at  DateTime?
+
+  cluster Cluster @relation(fields: [cluster_id], references: [cluster_id])
+
+  @@index([cluster_id])
+  @@map("resource_assignments")
+}
+
+model DlqLog {
+  id            BigInt    @id @default(autoincrement())
+  stream_name   String
+  message_id    String
+  raw_payload   Json
+  error_message String
+  failed_at     DateTime  @default(now())
+  resolved      Boolean   @default(false)
+  resolved_at   DateTime?
+  resolved_by   String?
+
+  @@index([stream_name])
+  @@map("dlq_log")
+}

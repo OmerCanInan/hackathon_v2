@@ -1,0 +1,27 @@
+{
+  "name": "@kemple/gateway",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@kemple/shared": "*",
+    "fastify": "^5.2.2",
+    "@fastify/cors": "^10.0.2",
+    "ioredis": "^5.4.2",
+    "uuid": "^11.1.0",
+    "zod": "^3.23.8",
+    "dotenv": "^16.4.7",
+    "pino-pretty": "^13.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "@types/uuid": "^10.0.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3"
+  }
+}

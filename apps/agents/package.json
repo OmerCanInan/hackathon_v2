@@ -1,0 +1,28 @@
+{
+  "name": "@kemple/agents",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/index.js",
+    "db:push": "prisma db push --schema=./prisma/schema.prisma",
+    "db:generate": "prisma generate --schema=./prisma/schema.prisma"
+  },
+  "dependencies": {
+    "@kemple/shared": "*",
+    "@prisma/client": "^6.8.2",
+    "dotenv": "^16.4.7",
+    "ioredis": "^5.4.2",
+    "ollama": "^0.5.14",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "@types/uuid": "^10.0.0",
+    "prisma": "^6.8.2",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3"
+  }
+}

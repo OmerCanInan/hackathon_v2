@@ -1,0 +1,12 @@
+node_modules
+*.pmtiles
+pmtiles.exe
+pmtiles.zip
+apps/dashboard/public/LICENSE
+apps/dashboard/public/README.md
+.env
+.env.local
+*.env
+node_modules/
+dist/
+build/

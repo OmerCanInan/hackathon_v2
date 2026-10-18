@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+*.pmtiles
+ollama_data/
+pg_data/
+redis_data/
+.DS_Store
+*.log
+prisma/migrations/

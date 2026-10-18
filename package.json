@@ -1,0 +1,31 @@
+{
+  "name": "kemple",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "concurrently -n gateway,agents,command,dashboard,mobile \"npm run dev -w apps/gateway\" \"npm run dev -w apps/agents\" \"npm run dev -w apps/command\" \"npm run dev -w apps/dashboard\" \"npm run dev -w apps/mobile\"",
+    "dev:infra": "docker compose -f infra/docker-compose.yml up -d",
+    "dev:backend": "concurrently -n gateway,agents,command \"npm run dev -w apps/gateway\" \"npm run dev -w apps/agents\" \"npm run dev -w apps/command\"",
+    "dev:dashboard": "npm run dev -w apps/dashboard",
+    "dev:mobile": "npm run dev -w apps/mobile",
+    "build": "npm run build --workspaces",
+    "infra:up": "docker compose -f infra/docker-compose.yml up -d",
+    "infra:down": "docker compose -f infra/docker-compose.yml down",
+    "infra:logs": "docker compose -f infra/docker-compose.yml logs -f",
+    "db:migrate": "npm run db:push -w apps/agents",
+    "ollama:pull": "docker exec kemple-ollama ollama pull llama3.1:8b",
+    "ble:bridge": "node apps/ble-bridge/src/index.mjs",
+    "ble:demo": "DEMO_MODE=true node apps/ble-bridge/src/index.mjs"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "csstype": "^3.1.3"
+  }
+}

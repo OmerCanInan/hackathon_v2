@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "text": "Sesimi duyan var mı ablamla enkazdayız ablamın kafası kanıyor burnundan da kan geliyor konuşmuyor bayıldı lütfen yardım edin",
+    "persons": 2,
+    "score": 9.9,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 2,
+    "text": "Bizim sokakta yıkılan binalardan dolayı çok ağır gaz kokusu var herkes öksürüyor bayılan komşular var acil yardım",
+    "persons": 15,
+    "score": 8.9,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 3,
+    "text": "İki kişiyiz depremde duvar yıkıldı arkadaşımın kolu çok kötü kesildi kanı durduramıyoruz bembeyaz oldu bayılacak",
+    "persons": 2,
+    "score": 9.7,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 4,
+    "text": "6 kattayız alt katlar tamamen çöktü bina yana yattı merdivenler boşluğa gitmiş aşağı inemiyoruz mahsur kaldık",
+    "persons": 3,
+    "score": 8.6,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 5,
+    "text": "Göçük altındayız arkadaşımın bacağı dev kolonun altında kaldı çok üşüyorum diyor donuyor ne olur acele edin",
+    "persons": 2,
+    "score": 9.5,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 6,
+    "text": "Mahalledeki caminin minaresi dükkanların üstüne yıkıldı altında kalan insanlar var sesler geliyor acil arama kurtarma",
+    "persons": 10,
+    "score": 9.1,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 7,
+    "text": "Enkazda yanımdaki çocuk şoktan kriz geçirmeye başladı ağzından köpükler geliyor heryeri kasılıyor ne yapacağım",
+    "persons": 2,
+    "score": 8.5,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 8,
+    "text": "Enkaz altındayız arkadaşımın sadece eli gözüküyor dışarda eli buz gibi nabzını çok zor alıyorum ses vermiyor",
+    "persons": 2,
+    "score": 9.3,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 9,
+    "text": "Yıkılan binanın yanındaki elektrik direği devrildi heryer kıvılcım çıkıyor yangın başlayacak dışarı çıkamıyoruz mahsuruz",
+    "persons": 5,
+    "score": 7.4,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 10,
+    "text": "İki kişi göçükteyiz arkadaşım hamile karnına taş düştü çok kanaması var yalvarırım gelin bebek ölecek",
+    "persons": 2,
+    "score": 9.6,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 11,
+    "text": "Bina depremde hasar aldı yangın çıktı heryer duman doldu camlarda demir var açamıyoruz sıkıştık kaldık imdat",
+    "persons": 4,
+    "score": 9.6,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 12,
+    "text": "Deprem anında panikle balkondan atlamış iki bacağı da kırık kemikler dışarda çok kan kaybediyor acil ambulans",
+    "persons": 2,
+    "score": 9.4,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 13,
+    "text": "Üç kişiyiz enkazda babam dünden beri hiç kıpırdamıyor nefes almıyor kalbi atmıyor ne olur sesimizi duyun",
+    "persons": 3,
+    "score": 9.1,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 14,
+    "text": "Evin girişi çöktü mahsur kaldık yatalak hastamız var göğsü çok sıkışıyor morarmaya başladı nefes alamıyor acil",
+    "persons": 2,
+    "score": 8.7,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 15,
+    "text": "Yan taraftaki yıkıntıdan bir kadının sesini duyuyoruz ama bilinci bulanık gibi ne dediği anlaşılmıyor saçmalıyor",
+    "persons": 1,
+    "score": 8.8,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 16,
+    "text": "Yandaki benzinlik yıkıldı sokağa heryere akaryakıt akıyor acayip kokuyor patlayacak burası kimse yok mu",
+    "persons": 30,
+    "score": 8.3,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 17,
+    "text": "Enkazdayız arkadaşımın sırtına beton blok düştü belden aşağısını hiç hissetmiyor bacaklarımı kımıldatamıyorum diyor",
+    "persons": 2,
+    "score": 9.2,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 18,
+    "text": "Çocuk esirgeme yurdu binası çöktü enkazın altında çok sayıda çocuk var sesleri geliyor acil yardım",
+    "persons": 15,
+    "score": 9.7,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 19,
+    "text": "Gardırop devrildi kapının arkasına sıkıştı odada kaldık yaralı yok ama sürekli artçı oluyor bina sallanıyor korkuyoruz",
+    "persons": 2,
+    "score": 5.2,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 20,
+    "text": "Göçük altındayız arkadaşımın göğsü içeri çöktü nefes alırken göğsünden fıs fıs ses geliyor kan füşkürüyor",
+    "persons": 2,
+    "score": 9.8,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 21,
+    "text": "Enkazdan sağ çıktık ama hastamız diyaliz hastası günlerdir enkaz çevresinde bekliyoruz heryeri şişti nefes alamıyor acil",
+    "persons": 2,
+    "score": 8.0,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 22,
+    "text": "Enkazdan şimdi bebek çıkardık ama nefes almıyor yüzü mosmor olmuş boğazına toprak kaçmış ne olur yardım edin",
+    "persons": 2,
+    "score": 9.8,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 23,
+    "text": "Giriş kat tamamen çöktü bina öne doğru eğildi merdivenler yıkılmış balkonda kaldık aşağı inemiyoruz kurtarın",
+    "persons": 4,
+    "score": 8.5,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 24,
+    "text": "İki kişiyiz enkazda arkadaşımın kolu ağır dolabın altında ezildi kolu mosmor oldu hiç hissetmiyor elini",
+    "persons": 2,
+    "score": 9.1,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 25,
+    "text": "Fabrika çöktü göçük altında işçiler var fabrikadaki borulardan gaz sızıyor gözlerimizi açamıyoruz zehirleniyoruz",
+    "persons": 6,
+    "score": 9.4,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 26,
+    "text": "Günlerdir enkaz altında aç susuz kaldık arkadaşım sıcaktan ve susuzluktan halüsinasyon görüyor kriz geçiriyor",
+    "persons": 2,
+    "score": 9.0,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 27,
+    "text": "Babam şeker hastası insülinleri göçük altında kaldı depremden beri ilaç alamadı bilinci kapandı uyanmıyor",
+    "persons": 2,
+    "score": 8.2,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 28,
+    "text": "Deprem anında üzerine ocaktaki kaynar yağ dökülmüş enkazdan yeni çıkardık vücudunda çok ağır yanıklar var acil",
+    "persons": 2,
+    "score": 7.9,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 29,
+    "text": "Üzerimizdeki beton kütle her artçı sarsıntıda aşağı kayıyor ezileceğiz birazdan tavan çökecek acil yardım edin",
+    "persons": 3,
+    "score": 9.4,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 30,
+    "text": "İki kişi enkazdayız arkadaşımın gözüne yıkım esnasında demir parçası girdi gözü kan içinde çok kötü bağırıyor",
+    "persons": 2,
+    "score": 8.9,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 31,
+    "text": "Deprem anında merdivenlerden kaçarken aşağı yuvarlandı boynum çok kötü diyor hiç hareket ettiremiyoruz",
+    "persons": 2,
+    "score": 8.8,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 32,
+    "text": "Sığınaktayız üzerimize bina çöktü çıkış kapısı kapandı havalandırma da çalışmıyor nefes alacak oksijen bitiyor",
+    "persons": 5,
+    "score": 9.6,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 33,
+    "text": "Düğün salonundaydık tavan çöktü heryer karanlık enkazın altında çok insan kaldı çığlık sesleri geliyor kurtarın",
+    "persons": 60,
+    "score": 9.6,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 34,
+    "text": "Enkazdan komşumuzu çıkardık ama bacağı kopmuş yukardan kan fışkırıyor bez bağladık ama durmuyor ölecek adam",
+    "persons": 2,
+    "score": 9.8,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 35,
+    "text": "Yüksek katlı apartman yan yattı yangın merdiveninde sıkıştık kapı kilitlenmiş aşağısı da çökmüş durumdayız",
+    "persons": 20,
+    "score": 8.7,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 36,
+    "text": "İki kişi göçükteyiz arkadaşımın göğsüne beton baskı yapıyor ağzından pembemsi köpüklü sıvı geliyor nefes alamıyor",
+    "persons": 2,
+    "score": 9.6,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 37,
+    "text": "Metro tünelinde depreme yakalandık göçük oldu araçlar çalışıyor egzoz dumanından boğulacağız duman birikiyor",
+    "persons": 35,
+    "score": 9.3,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 38,
+    "text": "Üç kişiyiz enkazda hamile ablamın suyu geldi kordon gibi bir şey sarkıyor bebek hiç oynamıyor ne olur yardım edin",
+    "persons": 3,
+    "score": 9.5,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 39,
+    "text": "Kalp pili olan dedem deprem şokuyla bayıldı kalbi çok hızlı çarpıyor ritmi bozuldu uyanmıyor nefesi kesiliyor",
+    "persons": 2,
+    "score": 8.4,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 40,
+    "text": "Enkaz altındayız arkadaşım kafasını çok kötü vurmuş göz bebeklerinin biri büyük biri küçük bilinci tamamen gitti",
+    "persons": 2,
+    "score": 9.6,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 41,
+    "text": "Mahalledeki su kulesi devrildi heryeri su bastı kerpiç evler yıkılıyor çatıya çıktık mahsur kaldık kurtarın",
+    "persons": 40,
+    "score": 8.1,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 42,
+    "text": "Göçükteyiz arkadaşımın iki bacağı birden koca betonun altında kaldı bacakları simsiyah oldu hiç hissetmiyor",
+    "persons": 2,
+    "score": 9.7,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 43,
+    "text": "Depremde cam kırıldı arkadaşımın boynundan şah damarına yakın yerden çok ağır kan akıyor durduramıyoruz acil",
+    "persons": 2,
+    "score": 9.9,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 44,
+    "text": "Binanın kolonları patladı ev tek tarafa doğru çöktü kapılar sıkıştı balkondayız bina her an yıkılabilir imdat",
+    "persons": 4,
+    "score": 8.3,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 45,
+    "text": "Üç kişiyiz enkazda otizmli kardeşim var sesten dolayı aşırı panik yaptı kendine zarar veriyor sakinleştiremiyoruz",
+    "persons": 3,
+    "score": 8.0,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 46,
+    "text": "Sarsıntı sırasında 3 kattan asansör boşluğuna düştü beli kırıldı galiba bacaklarımı hiç hissetmiyorum diyor",
+    "persons": 2,
+    "score": 9.3,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 47,
+    "text": "Köyün yukarısındaki barajın kapağı depremde çatlamış su sızıyor köyü su basacak acil tahliye lazım yardım",
+    "persons": 200,
+    "score": 9.2,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 48,
+    "text": "Enkaz altındayız yanımızdaki küçük çocuğun sesi kesildi sadece hırıltı çıkarıyor bilinci gitti cevap vermiyor",
+    "persons": 2,
+    "score": 9.5,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 49,
+    "text": "Sarsıntıda tüp devrildi yüzü gözü her yeri yandı nefes borusu şişiyor çocuk nefes alamıyor acil ambulans",
+    "persons": 2,
+    "score": 9.7,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 50,
+    "text": "Günlerdir göçük altındayız tavan üstümüze doğru kayıyor her artçıda beton biraz daha aşağı iniyor ezileceğiz",
+    "persons": 3,
+    "score": 9.4,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 51,
+    "text": "Enkaz altındayız arkadaşımın üzerine merdiven basamakları çöktü omzu çıktı galiba kemik dışarı fırlamış çok kötü",
+    "persons": 2,
+    "score": 7.5,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 52,
+    "text": "Deprem şokuyla ablam düşük yapıyor çok şiddetli kanaması var parça düşürüyor şu an şoka girdi bembeyaz oldu",
+    "persons": 2,
+    "score": 8.6,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 53,
+    "text": "Doğalgaz kutusu patladı bina alev alev yanıyor alt katlar ateşe teslim pencerelerde kaldık dumandan boğuluyoruz",
+    "persons": 15,
+    "score": 9.2,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 54,
+    "text": "Depremde kafasına taş düştü kafa derisi tamamen yüzülmüş oluk oluk kan akıyor bilincini kaybetmek üzere acil",
+    "persons": 2,
+    "score": 9.1,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 55,
+    "text": "Enkaz altındayız arkadaşımın bacağında açık kırık vardı günlerdir buradayız yara iltihap kapmış heryeri şiş ateşi çok yüksek",
+    "persons": 2,
+    "score": 8.7,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 56,
+    "text": "Cezaevi binası depremde ağır hasar aldı koğuşlar çöktü heryerde yaralı mahkumlar var revir de yıkılmış acil ekip",
+    "persons": 90,
+    "score": 8.5,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 57,
+    "text": "İki kişi göçükteyiz arkadaşımın kulağının arkası mosmor oldu burnundan su gibi berrak bir sıvı akıyor konuşamıyor",
+    "persons": 2,
+    "score": 9.4,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 58,
+    "text": "Astım hastasıyım ilaçlarım göçük altında kaldı nefesim tamamen tıkandı nefes alamıyorum boğuluyorum ne olur yardım",
+    "persons": 2,
+    "score": 8.9,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 59,
+    "text": "Sanayide amonyak boruları patladı gaz yayılıyor heryere göz gözü görmüyor herkes bayılmaya başladı nefes bitti",
+    "persons": 50,
+    "score": 9.5,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 60,
+    "text": "Göçük altındayız üzerimize heryerden toprak döküldü arkadaşımın ağzı burnu toprak doldu nefes yolu tıkandı boğuluyor",
+    "persons": 2,
+    "score": 9.8,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 61,
+    "text": "Enkaz altındayız iki kişiyiz beton blok arkadaşımın tam boynuna basıyor nefes alamıyor morarmaya başladı acil",
+    "persons": 2,
+    "score": 9.5,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 62,
+    "text": "Depremde mutfak tezgahı üstüme devrildi bacağım tezgahla duvar arasında sıkıştı kıpırdayamıyorum",
+    "persons": 1,
+    "score": 6.8,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 63,
+    "text": "Müstakil evimizin çatısı çöktü tavan arasında iki kişi sıkıştık tavan tahtaları göğsümüze baskı yapıyor nefes zor",
+    "persons": 2,
+    "score": 8.9,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 64,
+    "text": "Sitedeki kapalı otopark çöktü arabaların içinde mahsur kalanlar var yukardan hala beton parçaları düşüyor",
+    "persons": 12,
+    "score": 9.0,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 65,
+    "text": "Ağır sarsıntıyla kütüphane üzerimize yıkıldı kardeşimin sırtına geldi nefes alırken sırtım çok batıyor diyor",
+    "persons": 2,
+    "score": 7.6,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 66,
+    "text": "Yandaki yüksek bina bizim iki katlı eve doğru devrildi çatımız içeri göçtü koridorda kapana kısıldık çıkış yok",
+    "persons": 5,
+    "score": 8.2,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 67,
+    "text": "Deprem sırasında bazanın içine saklanmıştık üstümüze tavan çöktü bazanın içinde havasız kaldık açılmıyor imdat",
+    "persons": 2,
+    "score": 9.3,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 68,
+    "text": "Enkaz altındayız arkadaşımın kolundan sızan kan betonun altından gölet oluşturdu durduramıyoruz bilinci gidiyor",
+    "persons": 2,
+    "score": 9.7,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 69,
+    "text": "Evde yangın tüpü sarsıntıdan patladı heryer gaz duman oldu göz gözü görmüyor çocuk nefes alamıyor öksürüyor",
+    "persons": 3,
+    "score": 7.9,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 70,
+    "text": "Mahalledeki kreş binası yıkıldı alt katta çocuk sesleri var öğretmenler de enkaz altında kalmış acele edin",
+    "persons": 20,
+    "score": 9.8,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 71,
+    "text": "Depremde fırındaki dev kazan devrildi sokağa kaynar sular akıyor enkaz altındakiler haşlanacak acil itfaiye",
+    "persons": 8,
+    "score": 8.5,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 72,
+    "text": "İki kişiyiz enkazda arkadaşımın başından aşağı asma tavan çöktü kulağından kan geliyor hiç konuşmuyor",
+    "persons": 2,
+    "score": 9.4,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 73,
+    "text": "Alışveriş merkezindeydik yürüyen merdivenler çöktü altında kalanlar var heryer duman doldu çıkamıyoruz",
+    "persons": 45,
+    "score": 9.1,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 74,
+    "text": "Enkazda sıkıştık üstümüzde çok ağır demir kapı var arkadaşımın karnını eziyor acayip sancısı var kusmaya başladı",
+    "persons": 2,
+    "score": 9.2,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 75,
+    "text": "Deprem anında panikle balkondan bahçedeki demir korkuluklara düşmüş demir bacağına saplanmış çok kanıyor",
+    "persons": 1,
+    "score": 9.6,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 76,
+    "text": "Yıkılan binanın altında doğalgaz borusu patladı heryer alev aldı enkaz altındakiler yanacak acil müdahale",
+    "persons": 15,
+    "score": 9.9,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 77,
+    "text": "Üç kişiyiz enkazda babamın bacakları betonun altında dondu kaldı ayak parmakları simsiyah oldu hissetmiyor",
+    "persons": 3,
+    "score": 8.8,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 78,
+    "text": "Çocuk parkındaki beton istinat duvarı çöktü oynayan çocuklardan iki tanesi duvarın altında kaldı ses gelmiyor",
+    "persons": 2,
+    "score": 9.6,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 79,
+    "text": "Evimizin merdiven boşluğu tamamen aşağı uçtu dairede mahsur kaldık artçılar oldukça bina sallanıyor aşağısı uçurum",
+    "persons": 4,
+    "score": 7.2,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 80,
+    "text": "Enkaz altında küçük bir boşluktayız yanımızdaki bebeğin ağzına beton tozu kaçtı hırıldıyor boğulmak üzere",
+    "persons": 2,
+    "score": 9.7,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 81,
+    "text": "Mağazada depreme yakalandık dev cam vitrinler üstümüze patladı arkadaşımın heryeri derin kesik içinde kan fışkırıyor",
+    "persons": 3,
+    "score": 9.1,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 82,
+    "text": "İki kişi göçükteyiz arkadaşım kafa üstü çakıldı burnundan berrak sarımtırak bir su geliyor gözleri kaydı",
+    "persons": 2,
+    "score": 9.6,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 83,
+    "text": "Yıkılan apartmandan sokağa lağım suyu ve kimyasal atık karıştı kokudan durulmuyor enkazdakiler zehirlenecek",
+    "persons": 25,
+    "score": 7.5,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 84,
+    "text": "Depremde evdeki akvaryumlar patladı elektrik telleri suya değiyor heryer elektrik akımı var odada mahsur kaldık",
+    "persons": 3,
+    "score": 8.0,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 85,
+    "text": "Enkaz altındayız arkadaşımın iki kolu birden kolonun altında ezildi parmakları buz gibi kıpırdatamıyor",
+    "persons": 2,
+    "score": 9.3,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 86,
+    "text": "Apartmanın çatısındaki dev güneş panelleri ve su depoları içeri çöktü son kattayız üstümüze yıkıldı her şey",
+    "persons": 6,
+    "score": 8.7,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 87,
+    "text": "İki kişi enkazdayız yukarıdan sızan yağmur suyu burayı dolduruyor boğazımıza kadar su geldi boğulacağız acil",
+    "persons": 2,
+    "score": 9.8,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 88,
+    "text": "Deprem anında panikle kaçarken kapı çarptı arkadaşımın parmakları koptu heryer kan içinde kaldı bayılmak üzere",
+    "persons": 2,
+    "score": 8.4,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 89,
+    "text": "Şantiyedeki kule vinç yandaki binanın üstüne devrildi bina ortadan ikiye bölündü içeride kalanlar var",
+    "persons": 10,
+    "score": 9.5,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 90,
+    "text": "Enkaz altındayız arkadaşımın sırt kemiği kırıldı galiba arkaya doğru büküldü çığlık atıyor dokunamıyoruz",
+    "persons": 2,
+    "score": 9.4,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 91,
+    "text": "Mahalledeki trafo patladı yangın evlere sıçrıyor enkaz altından insanların bağırtıları geliyor acele edin",
+    "persons": 50,
+    "score": 9.6,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 92,
+    "text": "İki kişi göçükteyiz arkadaşımın boğazına enkazdan çıkan keskin bir tahta parçası batmış nefes alamıyor kanıyor",
+    "persons": 2,
+    "score": 9.9,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 93,
+    "text": "Bodrum kattayız binanın girişi çöktü lağım boruları patladı bodrumu su basıyor çıkış kapalı boğulacağız",
+    "persons": 4,
+    "score": 9.5,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 94,
+    "text": "Sarsıntıda televizyon ünitesi bebeğin üstüne devrildi göğsü ezildi nefes alırken hırıltı var morarıyor çocuk",
+    "persons": 2,
+    "score": 9.6,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 95,
+    "text": "Enkaz altındayız arkadaşımın bacağı açık kırık kemik dışarda heryer pislik içinde yara kokmaya başladı ateşi çok yüksek",
+    "persons": 2,
+    "score": 8.9,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 96,
+    "text": "Yatılı Kuran kursu binası depremde tamamen çöktü alt katlarda çok sayıda öğrenci var sesleri geliyor yardım edin",
+    "persons": 35,
+    "score": 9.7,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 97,
+    "text": "İki kişiyiz enkazda arkadaşım şoktan sürekli kusuyor bilinci bulanıklaştı bizi duymuyor kendi kendine konuşuyor",
+    "persons": 2,
+    "score": 8.3,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 98,
+    "text": "Depremde gardırop kapağındaki dev ayna üstüme patladı gözüme cam parçası girdi her yer kan ağrıdan duramıyorum",
+    "persons": 1,
+    "score": 8.8,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 99,
+    "text": "Sanayi sitesinde oto tamirhanesi çöktü araç liften düşmüş altında kalan ustalar var acil vinç lazım",
+    "persons": 5,
+    "score": 9.2,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 100,
+    "text": "Enkazdayız arkadaşımın kalçasına beton blok saplandı alt tarafı tamamen kilitlendi hiç kımıldayamıyor çok kan var",
+    "persons": 2,
+    "score": 9.8,
+    "severity": "Yüksek",
+    "note": ""
+  },
+  {
+    "id": 101,
+    "text": "Depremde evdeki büyük vitrin kapının arkasına devrildi odada iki kişi kaldık açamıyoruz kapıyı, yaralımız yok",
+    "persons": 2,
+    "score": 5.5,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 102,
+    "text": "Sarsıntı sırasında yataktan atlarken ayak bileğim döndü çok fena şişti üstüne basamıyorum, evden çıkamadık",
+    "persons": 1,
+    "score": 5.8,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 103,
+    "text": "Bizim apartmanın merdivenlerinde çatlaklar var basmaya korkuyoruz 3. kattayız dairede bekliyoruz yardım edin",
+    "persons": 3,
+    "score": 6.0,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 104,
+    "text": "Enkaz altındayız yukarımız kapalı ama geniş bir boşluktayız arkadasımın omzu çıktı çok ağrıyor kanama yok",
+    "persons": 2,
+    "score": 7.3,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 105,
+    "text": "Deprem anında kaçarken kolunu duvara çarpmış dirseği şişti morardı kırık olabilir, dışardayız parkta bekliyoruz",
+    "persons": 2,
+    "score": 5.2,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 106,
+    "text": "Birinci kattayız pencereden atladık ama topuğumun üstüne düştüm sanırım çatlak var yürüyemiyorum arabada kaldık",
+    "persons": 2,
+    "score": 6.1,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 107,
+    "text": "Depremden beri sokaktayız çadır bulamadık yağmur yağıyor çocuk çok üşüdü ateşi çıkmaya başladı ilaç yok",
+    "persons": 2,
+    "score": 6.5,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 108,
+    "text": "Enkaz altındayız sağımız solumuz açık ama üstümüze tahta kapı düşmüş ağırlıktan kendimizi kurtaramıyoruz",
+    "persons": 2,
+    "score": 7.0,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 109,
+    "text": "Sarsıntı bitince panikle merdivenden indim ama kapı kilitlenmiş apartman boşluğunda 5 kişi mahsur kaldık",
+    "persons": 5,
+    "score": 5.7,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 110,
+    "text": "Evimizin duvarları çok kötü çatladı sıvalar döküldü koridorda kaldık dış kapı sıkışmış açılmıyor, durumumuz iyi",
+    "persons": 4,
+    "score": 5.9,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 111,
+    "text": "Enkaz altında küçük bir yerdeyiz yaralı değiliz ama arkadaşım çok fena panik atak geçiriyor nefes nefese kaldı",
+    "persons": 2,
+    "score": 6.9,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 112,
+    "text": "Deprem sırasında başıma mutfak dolabından kavanoz düştü ufak bir kanama oldu bezle bastırdık durdu ama ağrıyor",
+    "persons": 1,
+    "score": 6.3,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 113,
+    "text": "İki kişiyiz enkazda bacağımı çamaşır makinesi sıkıştırmış ağır değil ama kendim çekemiyorum yardım lazım",
+    "persons": 2,
+    "score": 7.4,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 114,
+    "text": "Bizim dükkanın kepengi sarsıntıdan yamulmuş dışarı çıkamıyoruz içeride kaldık yaralanan kimse yok",
+    "persons": 3,
+    "score": 5.1,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 115,
+    "text": "Deprem anında ocaktaki çaydanlık ayağına devrilmiş hafif yanık var eczaneler kapalı krem bulamadık acıyor",
+    "persons": 2,
+    "score": 5.6,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 116,
+    "text": "Müstakil evdeyiz giriş kapısının üstündeki beton sundurma çökmüş kapıyı kapatmış pencereler demirli çıkamıyoruz",
+    "persons": 3,
+    "score": 6.4,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 117,
+    "text": "Enkazdayız üstümüzde yatak var ezilmedik ama hareket edemiyoruz burası çok soğuk donmaya başladık acil",
+    "persons": 2,
+    "score": 7.2,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 118,
+    "text": "Kaçarken cam kırıklarına basmış ayağının altı kesilmiş çok derin değil ama kanıyor pansuman malzememiz yok",
+    "persons": 2,
+    "score": 6.2,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 119,
+    "text": "Ofis binasındayız asansör katta kalmış kapısı açılmıyor içeride iki arkadaşımız var sesleri geliyor iyi durumdalar",
+    "persons": 2,
+    "score": 6.6,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 120,
+    "text": "Üst kattaki komşunun su borusu patlamış bizim daireye akıyor depremden dolayı vanayı da bulamadık evi su basıyor",
+    "persons": 3,
+    "score": 5.3,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 121,
+    "text": "Enkazdayız arkadaşımın el parmakları ezilmiş heryeri şişti kanama bitti ama acıdan duramıyor ilaç lazım",
+    "persons": 2,
+    "score": 6.8,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 122,
+    "text": "Bahçedeyiz üzerimize evden kiremit düştü omzuma geldi morardı kolumu tam kaldıramıyorum film çekilmesi lazım",
+    "persons": 1,
+    "score": 5.5,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 123,
+    "text": "Evimizin balkon mermeri aşağı uçmuş alt kattakiler korkudan çıkamıyor merdivenler de moloz dolu yol kapalı",
+    "persons": 4,
+    "score": 5.8,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 124,
+    "text": "İki kişiyiz göçük altında kaldık yaralı değiliz ama üstümüzdeki dolabı itemiyoruz burası çok daraldı yardım",
+    "persons": 2,
+    "score": 7.1,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 125,
+    "text": "Deprem korkusundan tansiyonu fırladı komşunun başı dönüyor sürekli kusuyor evden çıkaramıyoruz ambulans lazım",
+    "persons": 2,
+    "score": 6.7,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 126,
+    "text": "Sokağımızdaki binalardan sarkan betonlar var kaldırımdan yürünmüyor her an düşebilir yolun kapatılması lazım",
+    "persons": 10,
+    "score": 5.0,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 127,
+    "text": "Sarsıntı anında duvardaki koca ayna sırtına devrilmiş çizikler var kanıyor tentürdiyot falan yok çadırdayız şu an",
+    "persons": 2,
+    "score": 5.4,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 128,
+    "text": "Enkaz altındayız alanımız rahat ama bacağıma baza kapısı çarpmış dizim yerinden çıktı herhalde çok acıyor",
+    "persons": 2,
+    "score": 7.5,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 129,
+    "text": "Üçüncü kattayız bina ağır hasarlı merdiven demirleri kopmuş basamaklar sallanıyor inmeye cesaret edemedik",
+    "persons": 3,
+    "score": 6.3,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 130,
+    "text": "Deprem sırasında panikle koştururken kapıya çarptım burnum kırıldı galiba çok şişti hafif kanıyor tampon yaptık",
+    "persons": 1,
+    "score": 5.7,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 131,
+    "text": "Deprem sırasında avize başıma düştü saçımın içi açılmış kanıyor sildik ama dikiş atılması lazım herhalde",
+    "persons": 1,
+    "score": 6.2,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 132,
+    "text": "2. kattayız apartmanın giriş kapısı depremde esnemiş sıkışmış kalmış dışarı çıkamıyoruz pencerelerde de demir var",
+    "persons": 4,
+    "score": 5.8,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 133,
+    "text": "Enkaz altındayız üstümüzde çatı tahtaları var yaralı değiliz ama tahtalar çok sıkışık kıpırdayamıyoruz burası çok tozlu",
+    "persons": 2,
+    "score": 7.2,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 134,
+    "text": "Koşarken ayağım moloza takıldı düştüm el bileğim ters döndü herhalde çok kötü şişiyor kıpırdatınca ağlıyorum",
+    "persons": 1,
+    "score": 5.5,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 135,
+    "text": "Depremden beri dışardayız parktayız annemin astım fısfısı bitti hafiften öksürmeye başladı acil ilaç ulaştırmak lazım",
+    "persons": 2,
+    "score": 6.5,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 136,
+    "text": "Bizim sokağa yandaki binanın çatısı uçmuş heryer kiremit ve tahta dolu sokağa araç giremiyor yolun açılması lazım",
+    "persons": 15,
+    "score": 5.0,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 137,
+    "text": "Enkaz altındayız yaralı yok ama arkadaşımın iki bacağı da koltukların arasında kaldı çekip çıkaramıyoruz alan çok dar",
+    "persons": 2,
+    "score": 7.1,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 138,
+    "text": "Sarsıntı anında duvardaki koca saat kardeşimin ayağına düşmüş baş parmağı kırıldı galiba mosmor oldu basamıyor",
+    "persons": 2,
+    "score": 5.4,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 139,
+    "text": "Müstakil evdeyiz bahçe duvarı üzerimize devrildi kapıyı arkasından kilitledi pencerelerden çıkmaya çalışıyoruz",
+    "persons": 3,
+    "score": 6.0,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 140,
+    "text": "Deprem korkusundan babamın kalbi çok hızlı atmaya başladı tansiyon aleti enkazda kaldı rengi sarardı bakılması lazım",
+    "persons": 2,
+    "score": 6.7,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 141,
+    "text": "Enkazın altındayız geniş bir boşluk var ama yukardan sürekli su damlıyor heryerimiz ıslandı çok üşüyoruz donacağız",
+    "persons": 3,
+    "score": 7.4,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 142,
+    "text": "Kaçarken cam kırıklarının üstüne basmış ayağının yan tarafı derin kesildi temiz bezle sardık ama hastaneye gitmeli",
+    "persons": 1,
+    "score": 6.3,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 143,
+    "text": "İşyerindeyiz yangın merdiveninin beton basamakları çatlamış inmeye korkuyoruz ofiste kaldık yardım edin",
+    "persons": 6,
+    "score": 5.9,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 144,
+    "text": "Sarsıntı sırasında üzerine ağır televizyon düşmüş uyluk kemiği çok fena acıyor kırık olabilir dışardayız şu an",
+    "persons": 2,
+    "score": 6.8,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 145,
+    "text": "Enkaz altındayız arkadaşımın parmakları kapı arasında ezilmiş tırnakları patlamış kanadı durdu ama çok sızlıyor",
+    "persons": 2,
+    "score": 6.1,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 146,
+    "text": "Çadır alanı çok kalabalık çocuğun ateşi 39 oldu depremden beri eczane bulamadık fitil falan lazım acil yardım",
+    "persons": 2,
+    "score": 6.4,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 147,
+    "text": "Giriş kattayız depremde mutfak dolabı devrilmiş koridoru tamamen kapatmış odadan çıkamıyoruz yaralımız yok",
+    "persons": 2,
+    "score": 5.6,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 148,
+    "text": "Enkazda ufak bir delikteyiz arkadaşımın sırtına dolap kapağı çarpmış belini tam doğrultamıyor çok ağrısı var",
+    "persons": 2,
+    "score": 7.3,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 149,
+    "text": "Deprem sırasında balkondan bahçeye atlamış ayak bileği çıkmış herhalde kemik yerinde değil arabada bekletiyoruz",
+    "persons": 2,
+    "score": 6.2,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 150,
+    "text": "Sitenin bahçesindeki büyük ağaç binanın üstüne devrildi pencereler patladı içeri giren dallar var evde kaldık",
+    "persons": 4,
+    "score": 5.3,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 151,
+    "text": "Enkaz altındayız arkadaşımın koluna uzun bir tahta parçası saplanmış çok derin değil kanamayı kestik ama çıkartamadık",
+    "persons": 2,
+    "score": 7.5,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 152,
+    "text": "Deprem şokuyla ablam sürekli titriyor panik atak krizi geçirdi bayılacak gibi oluyor sakinleştiremiyoruz acil",
+    "persons": 2,
+    "score": 5.7,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 153,
+    "text": "Apartmanın asansöründe mahsur kaldık elektrikler gitti 3. kat hizasında duruyor sarsıntı bitti ama kapı açılmıyor",
+    "persons": 3,
+    "score": 6.6,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 154,
+    "text": "Sarsıntı anında merdivenden düşmüş kalçasının üstüne çok kötü ağrısı var hiç oturamıyor yürütmedik dışardayız",
+    "persons": 2,
+    "score": 6.0,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 155,
+    "text": "Enkaz altındayız yaralı değiliz ama üstümüzdeki yatak odası dolabı çok ağır iki kişiyiz kaldıramıyoruz sıkıştık",
+    "persons": 2,
+    "score": 7.0,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 156,
+    "text": "Depremde evdeki akvaryumlar patlamış heryer su içinde kaldı prizlerden ses geliyor sigortayı da bulamadık korkuyoruz",
+    "persons": 3,
+    "score": 5.2,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 157,
+    "text": "Bahçedeyiz yan binanın bacası bizim arabanın üstüne düştü içindeydik neyse ki yara almadık ama kapılar kilitlendi çıkamıyoruz",
+    "persons": 2,
+    "score": 5.5,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 158,
+    "text": "Enkaz altında arkadaşımla bekliyoruz bacağıma kalın bir demir baskı yapıyor canım çok yanıyor ezilme yok ama ağrıyor",
+    "persons": 2,
+    "score": 7.4,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 159,
+    "text": "Deprem anında koştururken alnını duvara vurmuş kocaman şişti bez koyduk ama başı çok ağrıyor kusma falan yok",
+    "persons": 2,
+    "score": 5.8,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 160,
+    "text": "4. kattayız binanın dış cephe sıvaları ve betonları merdiven boşluğuna dökülmüş çıkış yolu kapalı dairede kaldık",
+    "persons": 5,
+    "score": 6.1,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 161,
+    "text": "Deprem sırasında koridordaki koca portmanto devrildi iki çocuk odada mahsur kaldı kapının önünü kapattı",
+    "persons": 3,
+    "score": 5.6,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 162,
+    "text": "Merdivenlerden inerken basamak çöktü arkadaşım boşluğa bastı ayağı burkuldu çok şişti yürüyemiyor dışardayız",
+    "persons": 2,
+    "score": 5.4,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 163,
+    "text": "Enkaz altındayız üstümüzde çatı sacı var yaralı değiliz ama sacın kenarları çok keskin itmeye korkuyoruz",
+    "persons": 2,
+    "score": 7.0,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 164,
+    "text": "Sarsıntı anında kaçarken elini kapıya sıkıştırmış iki parmağı mosmor oldu tırnakları patladı ağrıdan duramıyor",
+    "persons": 1,
+    "score": 5.2,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 165,
+    "text": "Annem şeker hastası deprem paneliyle şeker ölçüm cihazı enkazda kaldı halsizleşmeye başladı kontrol edilmesi lazım",
+    "persons": 2,
+    "score": 6.6,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 166,
+    "text": "Bizim sokağa yandaki dükkanın dev tabelası düşmüş yol tamamen kapalı iş makinesi lazım ambulans giremez buraya",
+    "persons": 20,
+    "score": 5.1,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 167,
+    "text": "Enkaz altındayız iki kişiyiz arkadaşımın iki bacağı da bazanın arasına sıkışmış kırık yok ama çekemiyoruz ağır",
+    "persons": 2,
+    "score": 7.2,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 168,
+    "text": "Depremde mutfaktaki tabaklar raflar üstüme indi kolumda derin kesikler var bezle bağladık kan durdu ama dikiş lazım",
+    "persons": 1,
+    "score": 6.0,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 169,
+    "text": "Müstakil evimizin girişindeki sundurma çökmüş demir kapı arkasından sıkışmış pencerelerden çıkmaya çalışıyoruz",
+    "persons": 3,
+    "score": 5.9,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 170,
+    "text": "Deprem korkusundan teyzemin tansiyonu çok düştü baygınlık hissi var rengi bembeyaz oldu çadır alanındayız yardım",
+    "persons": 2,
+    "score": 6.2,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 171,
+    "text": "Enkaz altındayız alanımız iyi ama yukardan lağım borusu sızdırıyor heryerimiz kirlendi çok kötü kokuyor kurtarın",
+    "persons": 2,
+    "score": 6.9,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 172,
+    "text": "Kaçarken cam parçasına basmış topuğu çok fena kesilmiş kanı bezle bastırarak durdurduk ama hastaneye gitmeli",
+    "persons": 1,
+    "score": 6.1,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 173,
+    "text": "Ofis binasının acil çıkış kapısı depremde yamulmuş açılmıyor kat koridorunda 7 kişi mahsur kaldık durumumuz iyi",
+    "persons": 7,
+    "score": 5.8,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 174,
+    "text": "Sarsıntı anında üstüne ağır hoparlör düşmüş kaval kemiği çok fena acıyor basamıyor kırık olabilir arabada bekliyoruz",
+    "persons": 2,
+    "score": 6.5,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 175,
+    "text": "Enkaz altındayız arkadaşımın omzuna briket parçası düşmüş omzu yerinden çıktı galiba kolunu hiç oynatamıyor acıdan ağlıyor",
+    "persons": 2,
+    "score": 7.4,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 176,
+    "text": "Çadır kentteyiz çocuğun boğazı şişti ateşi çok yükseldi depremden beri ilaç bulamadık ateş düşürücü lazım acil",
+    "persons": 2,
+    "score": 6.3,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 177,
+    "text": "Giriş kattayız depremde koca buzdolabı devrilip mutfak kapısını arkasından kapatmış içeride kaldık yaralımız yok",
+    "persons": 2,
+    "score": 5.5,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 178,
+    "text": "Enkazda dar bir yerdeyiz arkadaşımın kalçasına dolap kapağı gelmiş ezilme yok ama kemiği çok ağrıyor dönemiyor",
+    "persons": 2,
+    "score": 7.1,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 179,
+    "text": "Deprem anında yataktan fırlarken dizini yere vurmuş dizi yerinden çıktı herhalde bükemiyor dışarda bekletiyoruz",
+    "persons": 2,
+    "score": 6.0,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 180,
+    "text": "Sokağın başındaki aydınlatma direği yan yatmış kablolar yere sarkıyor her an kopabilir sokağı kapatmak lazım",
+    "persons": 15,
+    "score": 5.0,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 181,
+    "text": "Enkaz altındayız arkadaşımın eline ağır bir kalas bastırıyor kırık yok ama acıdan duramıyor kalası tek başıma kaldıramadım",
+    "persons": 2,
+    "score": 7.3,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 182,
+    "text": "Deprem şokuyla yengem aşırı panik atak geçiriyor nefes nefese kaldı kalbi duracak gibi oluyor durduramıyoruz acil",
+    "persons": 2,
+    "score": 5.7,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 183,
+    "text": "Apartmanın yük asansöründe mahsur kaldık deprem anında elektrik gitti kapı kilitli kaldı sarsıntı bitti ama çıkamıyoruz",
+    "persons": 3,
+    "score": 6.4,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 184,
+    "text": "Sarsıntı anında merdivenlerden yuvarlanmış sırtı çok kötü ağrıyor hiç doğrulamıyor yürütmedik parkta bekliyoruz",
+    "persons": 2,
+    "score": 6.7,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 185,
+    "text": "Enkaz altındayız yaralı değiliz ama üstümüzdeki oturma grubu çok ağır iki kişiyiz gücümüz yetmiyor kaldıramadık",
+    "persons": 2,
+    "score": 6.8,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 186,
+    "text": "Depremde evdeki kombinin su borusu patlamış heryer su içinde kaldı vanayı kapattık ama elektrik prizlerinden ses geliyor",
+    "persons": 3,
+    "score": 5.3,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 187,
+    "text": "Bahçedeyiz yan binanın dekoratif taşları bizim çadırın üstüne düştü yara almadık ama çadır parçalandı dışarda kaldık üşüyoruz",
+    "persons": 4,
+    "score": 5.5,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 188,
+    "text": "Enkaz altında arkadaşımla bekliyoruz ayağıma kalın bir tahta baskı yapıyor ezilme yok ama çok fena sızlıyor yardım",
+    "persons": 2,
+    "score": 7.1,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 189,
+    "text": "Deprem anında kapıya kafasını vurmuş alnı yumurta gibi şişti bez bastırdık kanama kusma yok ama başı çok ağrıyor",
+    "persons": 2,
+    "score": 5.8,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 190,
+    "text": "3. kattayız binanın dışındaki mermerler merdiven boşluğuna dökülmüş çıkış kapalı dairede kaldık yaralımız yok",
+    "persons": 4,
+    "score": 6.0,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 191,
+    "text": "Sarsıntı sırasında üzerine kütüphane devrildi bacağı altında kaldı çıkardık ama diz kapağı çok şişti oynatamıyor",
+    "persons": 1,
+    "score": 5.7,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 192,
+    "text": "Enkaz altındayız geniş bir boşluk var ama yukardan sürekli toz toprak dökülüyor gözlerimiz kıpkırmızı oldu nefes zor",
+    "persons": 2,
+    "score": 6.9,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 193,
+    "text": "Depremde cam patladı kolumu kesti kanı durdurduk ama yara çok açık dikiş atılması lazım enfeksiyon kapmasın",
+    "persons": 1,
+    "score": 5.9,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 194,
+    "text": "Teyzem diyaliz hastası enkazdan sağlam çıktık ama çadırda kalıyor vücudu yavaş yavaş şişmeye başladı hastaneye sevk lazım",
+    "persons": 2,
+    "score": 6.8,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 195,
+    "text": "Bizim sokağın doğalgaz kutusundan tıslama sesi geliyor depremde hasar görmüş herhalde acil vananın kapatılması lazım",
+    "persons": 30,
+    "score": 7.5,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 196,
+    "text": "Enkaz altındayız yaralı değiliz ama arkadaşımın ayağı koltuğun demirine takılmış kımıldayamıyor burası çok dar kurtarın",
+    "persons": 2,
+    "score": 7.0,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 197,
+    "text": "Kaçarken balkondan atlamış topuk kemiği kırıldı galiba üstüne hiç basamıyor acıdan ağlıyor arabada bekletiyoruz",
+    "persons": 2,
+    "score": 6.2,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 198,
+    "text": "Deprem sırasında panikle koştururken kapı pervazına çarptım köprücük kemiğim kırıldı galiba kolumu kaldıramıyorum",
+    "persons": 1,
+    "score": 5.5,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 199,
+    "text": "Enkazdayız arkadaşımın koluna beton parçası çarpmış dirseği yerinden çıkmış kemik dışarda değil ama çok fena şişti",
+    "persons": 2,
+    "score": 7.3,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 200,
+    "text": "5. kattayız binanın taşıyıcı duvarları çatlamış kapı kasılmış açılmıyor balkonda bekliyoruz merdivenler sağlam ama çıkamıyoruz",
+    "persons": 3,
+    "score": 6.1,
+    "severity": "Orta",
+    "note": ""
+  },
+  {
+    "id": 201,
+    "text": "Depremden beri ailece parkta bekliyoruz üzerimizde mont yok hava çok soğuk battaniye dağıtımı nerede yapılıyor acaba",
+    "persons": 4,
+    "score": 3.5,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 202,
+    "text": "Evimizde hiçbir hasar yok ama çok korkuyoruz içeri girmeye cesaret edemedik arabada kalıyoruz çadır istenecek yer neresi",
+    "persons": 3,
+    "score": 2.5,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 203,
+    "text": "Kaçarken kolumu apartman kapısına sürttüm ufak bir sıyrık var kanaması geçti yara bandı falan bulabilir miyiz",
+    "persons": 1,
+    "score": 1.8,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 204,
+    "text": "Bizim mahallede elektrikler ne zaman gelecek telefonlarımızın şarjı bitmek üzere bilgi verebilir misiniz",
+    "persons": 50,
+    "score": 2.0,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 205,
+    "text": "Deprem anında evden çıkarken aceleyle bisküvi falan alamadık çocuklar acıktı buradaki parkta yemek dağıtımı var mı",
+    "persons": 4,
+    "score": 3.2,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 206,
+    "text": "Bizim apartman 2 yıllık hiçbir çatlak yok ama artçılar sallayınca panik oluyoruz bu gece eve girsek güvenli olur mu",
+    "persons": 2,
+    "score": 1.5,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 207,
+    "text": "Deprem şokuyla midem çok kötü bulandı sürekli istifra ediyorum çadırdayım şu an mide ilacı olan var mı yakınlarda",
+    "persons": 1,
+    "score": 2.8,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 208,
+    "text": "Evden çıktık bahçedeyiz ama yanımıza kronik ilaçlarımızı almayı unutmuşuz eczaneler açık mı nereden bulabiliriz",
+    "persons": 2,
+    "score": 4.2,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 209,
+    "text": "Sarsıntı sırasında salondaki biblolar falan yere düşmüş kırılmış hep evde başka bir hasar yok temizlemeye girelim mi",
+    "persons": 2,
+    "score": 1.2,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 210,
+    "text": "Parktaki çadır alanındayız çocuk üşütmüş galiba hafif burnu akıyor ateşi yok ama buraya doktorlar geliyor mu",
+    "persons": 2,
+    "score": 3.0,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 211,
+    "text": "Bizim sokağın başında hasarlı bina yok ama binalardan düşen sıvalar kaldırıma dökülmüş yürürken ayağımıza batıyor",
+    "persons": 10,
+    "score": 2.2,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 212,
+    "text": "Depremden beri çok korkuyorum kalbim küt küt atıyor sakinleşemedim hiçbir yaramız yok ama psikolojik destek var mı",
+    "persons": 1,
+    "score": 2.4,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 213,
+    "text": "Çadır kentte kalıyoruz bebek için acil bebek bezi ve mama lazım buralarda dağıtım yapan bir yer göremedik",
+    "persons": 3,
+    "score": 3.8,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 214,
+    "text": "Evimizin duvarında ufak tefek kılcal çatlaklar var boyalar dökülmüş tehlikeli midir kontrol etmeye gelebilir misiniz",
+    "persons": 3,
+    "score": 4.5,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 215,
+    "text": "Deprem anında yataktan fırlarken ayak baş parmağımı bazaya çarptım hafif morardı acıyor ama basabiliyorum krem lazım",
+    "persons": 1,
+    "score": 2.1,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 216,
+    "text": "Arabada bekliyoruz benzinimiz bitmek üzere hangi akaryakıt istasyonları çalışıyor açık olanların listesi var mı",
+    "persons": 4,
+    "score": 2.7,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 217,
+    "text": "Deprem olurken evdeki kedi dolabın arkasına kaçtı çıkmıyor ev hasarsız ama kediyi bırakıp çıkamadık yardım edin",
+    "persons": 1,
+    "score": 1.9,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 218,
+    "text": "Bulunduğumuz meydanda su kesik temizlik için su ihtiyacımız var belediyenin tankerleri ne zaman gelir acaba",
+    "persons": 100,
+    "score": 3.4,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 219,
+    "text": "Deprem anında panikle terliksiz fırlamışım sokağa ayaklarım çok üşüdü buralarda ayakkabı kıyafet yardımı var mı",
+    "persons": 1,
+    "score": 2.9,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 220,
+    "text": "Bizim mahalledeki hasar tespit çalışmaları ne zaman başlayacak evimize ne zaman girebiliriz bilgi istiyoruz",
+    "persons": 5,
+    "score": 1.7,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 221,
+    "text": "Çadırdayız akşam hava çok soğuyor çocukların ısınması için küçük bir elektrikli ısıtıcı veya uyku tulumu lazım",
+    "persons": 4,
+    "score": 3.6,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 222,
+    "text": "Sarsıntı bitince merdivenden inerken dizimi korkuluğa çarpmışım ufak bir şişlik var buza ihtiyacım var dışardayız",
+    "persons": 1,
+    "score": 2.3,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 223,
+    "text": "Bizim site hasarsız ama otoparktaki arabaların üstüne yandaki dekoratif tuğlalar düşmüş hasar kaydı için ne yapmalıyız",
+    "persons": 8,
+    "score": 1.3,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 224,
+    "text": "Depremden beri hiç uyuyamadım başım çok fena çatlıyor ağrı kesicim de evde kaldı çadır alanında revir var mı",
+    "persons": 1,
+    "score": 2.6,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 225,
+    "text": "Bulunduğumuz okul bahçesinde çöpler birikmeye başladı koku yapıyor salgın hastalık olmasın acil çöp konteyneri lazım",
+    "persons": 60,
+    "score": 4.0,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 226,
+    "text": "Evden aceleyle çıktık hiçbir yaramız yok çok şükür ama kimliklerimizi ve cüzdanı içeride unuttuk eve girip alsak olur mu",
+    "persons": 2,
+    "score": 3.1,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 227,
+    "text": "Çadır alanında telefonlar çekmiyor baz istasyonu kurulacak mı yakın akrabalarımıza haber veremiyoruz meraktalar",
+    "persons": 15,
+    "score": 2.5,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 228,
+    "text": "Deprem sırasında heyecanlanınca gözüm seyirmeye başladı hiç durmuyor sağlığım iyi ama korkudan oldu herhalde",
+    "persons": 1,
+    "score": 1.1,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 229,
+    "text": "Parkta bekleyen yaşlı komşumuzun tansiyon ilacı saati geldi ev hasarlı girmek istemiyor ilacını nereden reçete ettirebiliriz",
+    "persons": 2,
+    "score": 4.4,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 230,
+    "text": "Evimizin mutfak fayansları depremde yerinden oynamış dökülecek gibi duruyor tehlike arz eder mi bakabilir misiniz",
+    "persons": 3,
+    "score": 4.1,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 231,
+    "text": "Depremden beri halı sahada bekliyoruz burası çok kalabalık çocuklara sıcak çorba veya yemek dağıtımı gelecek mi",
+    "persons": 6,
+    "score": 3.1,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 232,
+    "text": "Evimizde çatlak yok ama psikolojimiz bozuldu arabada yatıyoruz buralarda seyyar tuvalet kurulu olan bir yer var mı",
+    "persons": 4,
+    "score": 3.5,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 233,
+    "text": "Aceleyle evden çıkarken elimi kapının kilidine sürttüm hafif çizildi kanaması yok kolonyayla sildim yara bandı lazım",
+    "persons": 1,
+    "score": 1.4,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 234,
+    "text": "Bizim sokaktaki internet hatları koptu depremden beri hiç çekmiyor yakınlarımıza WhatsApp'tan yazamıyoruz bilgi lütfen",
+    "persons": 40,
+    "score": 1.8,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 235,
+    "text": "Çadır alanındayız 4 aylık bebeğim var altını değiştirecek bezimiz kalmadı buralarda bebek malzemesi dağıtılıyor mu",
+    "persons": 3,
+    "score": 3.9,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 236,
+    "text": "Binamız yeni hiçbir hasar görünmüyor ama e-devletten hasar tespit durumuna baka baka bir hal olduk sistem ne zaman güncellenir",
+    "persons": 2,
+    "score": 1.2,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 237,
+    "text": "Deprem anında evden kaçarken muhabbet kuşumuzu kafesiyle odada unuttuk ev hasarsız girip alsak sıkıntı olur mu",
+    "persons": 1,
+    "score": 2.0,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 238,
+    "text": "Meydandaki parkta kalıyoruz yaşlı annemin göz damlası evde kaldı gözleri çok kızardı nöbetçi eczane var mı buralarda",
+    "persons": 2,
+    "score": 4.1,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 239,
+    "text": "Sarsıntı sırasında salondaki koca televizyon sehpası devrilmiş parkeler çizilmiş evde başka bir şey yok ne zaman temizleyelim",
+    "persons": 3,
+    "score": 1.1,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 240,
+    "text": "Parktaki toplanma alanındayız hava çok bozdu rüzgar var çocuklar için kalın hırka veya battaniye bulabileceğimiz bir yer var mı",
+    "persons": 5,
+    "score": 3.6,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 241,
+    "text": "Bizim apartmanın dış cephesindeki yalıtım köpükleri sokağa dökülmüş arabaların üstü bembeyaz oldu belediye ne zaman temizler",
+    "persons": 12,
+    "score": 1.6,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 242,
+    "text": "Deprem korkusundan sabaha kadar uyuyamadım başım çok fena dönüyor midem bulanıyor yaram yok ama revir nerede var",
+    "persons": 1,
+    "score": 2.6,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 243,
+    "text": "Çadırdayız çocukların oyalanması için hiç oyuncak veya kitap yok sıkıntıdan sürekli ağlıyorlar buralara kreş kurulur mu",
+    "persons": 4,
+    "score": 2.3,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 244,
+    "text": "Evimizin tavan köşe kartonpiyerleri depremde çatlamış yere döküldü betonlarda bir şey yok ama kontrol ettirmeli miyiz",
+    "persons": 3,
+    "score": 4.3,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 245,
+    "text": "Kaçarken terliğim moloza takıldı ayak baş parmağım taşa çarptı tırnağım hafif morardı acıyor ama yürüyebiliyorum",
+    "persons": 1,
+    "score": 1.9,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 246,
+    "text": "Arabada bekliyoruz ama telefonları şarj ede ede arabanın aküsü bitti buradaki parkta ortak şarj istasyonu var mı",
+    "persons": 4,
+    "score": 2.8,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 247,
+    "text": "Deprem sırasında köpeğimiz korkup bahçeden kaçtı buralarda gören oldu mu tasması kırmızı hasarsız bölgedeyiz",
+    "persons": 1,
+    "score": 1.5,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 248,
+    "text": "Bulunduğumuz okulun bahçesinde çeşmelerden su akmıyor abdest almak ve temizlik için su tankeri istiyoruz acil",
+    "persons": 80,
+    "score": 3.3,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 249,
+    "text": "Deprem anında panikle cüzdanı çantayı evde unuttum yanımda hiç nakit para yok bankamatikler çalışıyor mu buralarda",
+    "persons": 1,
+    "score": 2.2,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 250,
+    "text": "Bizim mahalledeki hasar tespit ekipleri hangi sırayla geziyor dilekçe falan vermemiz gerekiyor mu bilgi verir misiniz",
+    "persons": 8,
+    "score": 1.5,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 251,
+    "text": "Parkta kendi imkanlarımızla brandadan çadır yaptık ama altımız taş toprak uyku tulumu veya mat dağıtımı var mı",
+    "persons": 3,
+    "score": 3.4,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 252,
+    "text": "Sarsıntı bitince merdivenden inerken dirseğimi duvara sürtmüşüm ufak bir sıyrık ve morarma var merhem lazım dışardayız",
+    "persons": 1,
+    "score": 1.7,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 253,
+    "text": "Bizim sitenin istinat duvarının üstündeki teller kopmuş bahçeye sarkıyor çocukların ellememesi için birinin bakması lazım",
+    "persons": 10,
+    "score": 2.9,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 254,
+    "text": "Deprem şokuyla kayınvalidemin tansiyonu azıcık yükseldi limonlu su verdik düştü ama kontrol için çadırda doktor var mı",
+    "persons": 3,
+    "score": 3.8,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 255,
+    "text": "Çadır alanındaki çöp kovaları tamamen doldu heryere poşetler birikti belediyenin temizlik araçları buraya giriyor mu",
+    "persons": 50,
+    "score": 3.7,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 256,
+    "text": "Evden aceleyle çıktık üzerimizde pijama var kıyafet yardımı yapılan çadırlar nerede kuruldu acaba gidip alalım",
+    "persons": 2,
+    "score": 3.0,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 257,
+    "text": "Bulunduğumuz spor salonunda telefon şebekeleri çok zayıf internete girilmiyor operatörler ek araç gönderecek mi",
+    "persons": 100,
+    "score": 2.4,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 258,
+    "text": "Deprem anında heyecandan kekelemeye başladım konuşurken dilim dolanıyor fiziksel yaralanmam yok geçici midir bu",
+    "persons": 1,
+    "score": 1.3,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 259,
+    "text": "Parkta bekleyen komşumuzun her gün içmesi gereken rutin hapları evde kaldı evi hafif hasarlı eczaneden direkt alabilir miyiz",
+    "persons": 2,
+    "score": 4.2,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 260,
+    "text": "Evimizin banyo fayanslarının arasındaki derzler depremde çatlamış dökülüyor duvar sağlam ama bakılması gerekir mi",
+    "persons": 2,
+    "score": 3.9,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 261,
+    "text": "Depremden beri pazar yerindeki toplanma alanındayız çadır bulamadık hava kararınca çok üşüyoruz battaniye lazım",
+    "persons": 5,
+    "score": 3.5,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 262,
+    "text": "Evimiz hasarsız ama korkudan arabada yatıp kalkıyoruz sokağımıza seyyar tuvalet veya banyo kurulacak mı acaba",
+    "persons": 4,
+    "score": 3.2,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 263,
+    "text": "Kaçarken kolumu kapı pervazına çarpmışım hafif bir kızarıklık ve morluk var kanama falan yok krem sürsek geçer mi",
+    "persons": 1,
+    "score": 1.5,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 264,
+    "text": "Bizim mahallede sular ne zaman akacak temizlik ve temel ihtiyaçlar için sıkıntı yaşıyoruz belediyeden bilgi var mı",
+    "persons": 60,
+    "score": 3.0,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 265,
+    "text": "Çadır alanındayız 1 yaşında çocuğum var mama ve devam sütü bitmek üzere buralarda çocuk malzemesi dağıtımı nerede",
+    "persons": 3,
+    "score": 3.8,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 266,
+    "text": "Binamızda hiçbir çatlak yok ama artçı sarsıntılar olunca çok sallanıyor eve girmeye korkuyoruz ne yapalım",
+    "persons": 2,
+    "score": 1.6,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 267,
+    "text": "Deprem anında kaçarken muhabbet kuşumuz odada kalmış evimizde hasar yok gidip kuşumuzu alabilir miyiz",
+    "persons": 1,
+    "score": 1.8,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 268,
+    "text": "Okul bahçesindeyiz yaşlı babamın her gün aldığı tansiyon ilacı evde kaldı eczanelerden reçetesiz alabiliyor muyuz",
+    "persons": 2,
+    "score": 4.3,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 269,
+    "text": "Sarsıntı sırasında salondaki biblolar vitrinden düşüp kırılmış evde yapısal hasar yok temizlik için eve girilir mi",
+    "persons": 3,
+    "score": 1.2,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 270,
+    "text": "Parktaki çadırdayız akşamları burası rüzgar alıyor çocukların üşümemesi için ısıtıcı veya fazladan branda lazım",
+    "persons": 4,
+    "score": 3.4,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 271,
+    "text": "Apartmanın dış cephe boyaları ve sıvaları bahçeye dökülmüş taşıyıcı kolonlarda bir şey yok hasar tespit gerekir mi",
+    "persons": 8,
+    "score": 4.0,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 272,
+    "text": "Deprem korkusundan midem bulanıyor sürekli istifra ediyorum hiçbir yaralanmam yok ama çadır alanında sağlık ocağı var mı",
+    "persons": 1,
+    "score": 2.5,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 273,
+    "text": "Çadır kentteyiz çocukların vakit geçirmesi için oyun alanı veya etkinlik çadırı kurulacak mı çok canları sıkılıyor",
+    "persons": 5,
+    "score": 2.1,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 274,
+    "text": "Evimizin mutfak duvarında kılcal çatlaklar oluşmuş sıvalar dökülüyor binada tehlike var mıdır kontrol edilebilir mi",
+    "persons": 3,
+    "score": 4.4,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 275,
+    "text": "Kaçarken ayağımı sandalyeye vurmuşum baş parmağım hafif şişti morardı üstüne basabiliyorum incinmiş midir",
+    "persons": 1,
+    "score": 2.0,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 276,
+    "text": "Arabada kalıyoruz ama telefonların şarjı bitti powerbank doldurabileceğimiz bir ortak şarj noktası var mı buralarda",
+    "persons": 4,
+    "score": 2.6,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 277,
+    "text": "Deprem olurken kedimiz korkudan kaçtı buralarda gören var mı beyaz renkli hasarsız güvenli bölgedeyiz",
+    "persons": 1,
+    "score": 1.4,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 278,
+    "text": "Bulunduğumuz halı sahada su kesik temizlik ve abdest için su tankerinin gelmesini istiyoruz yetkililere duyurulur",
+    "persons": 70,
+    "score": 3.1,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 279,
+    "text": "Deprem anında cüzdanı evde unutmuşuz para çekmemiz lazım buradaki bankamatikler çalışıyor mu açık mı",
+    "persons": 1,
+    "score": 2.3,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 280,
+    "text": "Bizim sokağa hasar tespit ekipleri ne zaman gelecek sırayla mı bakılıyor internetten başvuru yapmalı mıyız",
+    "persons": 6,
+    "score": 1.7,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 281,
+    "text": "Parkta kendi imkanlarımızla çadır kurduk ama altımız taşlık yatak mat veya battaniye dağıtımı var mı buralarda",
+    "persons": 3,
+    "score": 3.3,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 282,
+    "text": "Deprem bittikten sonra merdivenden inerken elimi korkuluğa sürtmüşüm ufak sıyrık var yara bandı lazım dışardayız",
+    "persons": 1,
+    "score": 1.3,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 283,
+    "text": "Bizim sitenin bahçe duvarının telleri kopmuş kaldırıma sarkıyor çocukların takılmaması için bir ekibin bakması lazım",
+    "persons": 12,
+    "score": 2.8,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 284,
+    "text": "Deprem şokuyla annemin tansiyonu hafif yükseldi sarımsak yedi düştü ama çadır alanında tansiyon ölçtürecek revir var mı",
+    "persons": 2,
+    "score": 3.7,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 285,
+    "text": "Çadır kentteki çöp kutuları taştı heryer poşet oldu koku yapmaya başladı belediyenin çöp kamyonları ne zaman gelir",
+    "persons": 100,
+    "score": 3.6,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 286,
+    "text": "Evden apar topar çıktık üzerimizde mont yok kıyafet yardımı yapılan çadırların yerini bilen var mı gidip alalım",
+    "persons": 2,
+    "score": 2.9,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 287,
+    "text": "Bulunduğumuz spor salonunda telefon şebekesi çok az çekiyor internete girilmiyor operatörler araç gönderecek mi",
+    "persons": 150,
+    "score": 2.5,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 288,
+    "text": "Deprem anında aşırı heyecanlanınca kekelemeye başladım fiziksel bir yaram yok korkudan mıdır geçici midir bu",
+    "persons": 1,
+    "score": 1.1,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 289,
+    "text": "Parkta bekleyen yaşlı komşumuzun her gün içmesi gereken rutin hapları evde kaldı reçetesiz eczaneden alabilir miyiz",
+    "persons": 2,
+    "score": 4.1,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 290,
+    "text": "Evimizin banyo fayanslarının derzleri dökülmüş depremde duvar sağlam ama yine de kontrol ettirmek gerekir mi",
+    "persons": 2,
+    "score": 3.9,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 291,
+    "text": "Depremden beri çocuk parkında bekliyoruz buraya sıcak yemek veya çorba dağıtım aracı gelecek mi acıktık",
+    "persons": 4,
+    "score": 3.0,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 292,
+    "text": "Evimizde hasar yok ama psikolojimiz bitti çadırda kalıyoruz seyyar tuvaletler hangi caddelerde kuruldu acaba",
+    "persons": 3,
+    "score": 3.4,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 293,
+    "text": "Aceleyle evden çıkarken elimi kapı koluna çarptım hafif kızardı kanama yok kolonyayla sildim yara bandı lazım",
+    "persons": 1,
+    "score": 1.2,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 294,
+    "text": "Bizim sokaktaki internet hatları koptu depremden beri çekmiyor yakınlarımıza haber veremiyoruz arıza ne zaman biter",
+    "persons": 30,
+    "score": 1.9,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 295,
+    "text": "Çadır alanındayız yeni doğan bebeğim için ıslak mendil ve pişik kremi lazım buralarda dağıtım yapan yer var mı",
+    "persons": 3,
+    "score": 3.7,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 296,
+    "text": "Binamız yeni hasar yok ama e-devletten hasar tespit durumuna bakıyoruz sistem ne zaman güncellenir bilgi lütfen",
+    "persons": 2,
+    "score": 1.3,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 297,
+    "text": "Deprem anında evden kaçarken kaplumbağamızı akvaryumunda unuttuk ev hasarsız girip alsak sıkıntı olur mu",
+    "persons": 1,
+    "score": 1.6,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 298,
+    "text": "Meydandaki parkta kalıyoruz yaşlı annemin göz damlası evde kaldı gözleri çok kızardı nöbetçi eczane var mı buralarda",
+    "persons": 2,
+    "score": 4.2,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 299,
+    "text": "Sarsıntı sırasında salondaki koca televizyon ünitesi devrilmiş parkeler çizilmiş evde başka bir şey yok ne zaman temizleyelim",
+    "persons": 3,
+    "score": 1.0,
+    "severity": "Düşük",
+    "note": ""
+  },
+  {
+    "id": 300,
+    "text": "Parktaki toplanma alanındayız hava çok bozdu rüzgar var çocuklar için kalın hırka veya battaniye bulabileceğimiz bir yer var mı",
+    "persons": 5,
+    "score": 3.5,
+    "severity": "Düşük",
+    "note": ""
+  }
+]

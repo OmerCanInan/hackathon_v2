@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">kemple-mobile</string>
+    <string name="title_activity_main">kemple-mobile</string>
+    <string name="package_name">com.kemple.mobile</string>
+    <string name="custom_url_scheme">com.kemple.mobile</string>
+</resources>
