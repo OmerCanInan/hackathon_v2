@@ -9,4 +9,4 @@ apps/dashboard/public/README.md
 *.env
 node_modules/
 dist/
-build/
+build/!.env.example
